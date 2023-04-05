@@ -45,7 +45,7 @@ $pessoa->setObservacao($_POST['observacao']);
           </div>
          
           
-          <label for="formGroupExampleInput" class="form-label"><br><b>Consultar</b></br>
+          <label for="formGroupExampleInput" class="form-label"><br><b>Consultar - Contatos Agendados</b></br>
             <table width=50% border=0 cellpadding=10 cellpadding=1 align=center>
                 <tr align=center bgcolor=#007BFF>
               <th width=8%>Nome</th>
