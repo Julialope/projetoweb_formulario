@@ -55,7 +55,7 @@ $pessoa->setObservacao($_POST['observacao']);
               <th width=8%>Observação</th>
               <th width=8%>Ação</th>
         </tr>
-        <tr align=center bgcolor=#007BFF>
+        <tr align=center bgcolor=#white>
               <th width=8%><?php echo $pessoa->getNome();?></th>
               <th width=8%><?php echo $pessoa->getTelefone();?></th>
               <th width=8%><?php echo $pessoa->getOrigem();?></th>
